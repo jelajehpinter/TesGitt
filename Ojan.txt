@@ -1,1 +1,4 @@
 this is my first text file
+
+Name is M. Azwar Auzan
+Studying STMIK Akakom Yogyakarta
